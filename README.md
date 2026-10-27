@@ -46,4 +46,4 @@ python -m voice_agent.main console
 | *"I want to speak to a human"* | Creates a support ticket and escalates |
 
 ---
-Copyright©️ Codebasics Inc. All rights reserved.
+
